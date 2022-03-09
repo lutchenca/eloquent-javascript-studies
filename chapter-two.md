@@ -1,7 +1,7 @@
 ## Chapter 2 exercises 
-:heavy_check_mark: - DONE
-:o: - in progress
-:x: - can't solve
+- :heavy_check_mark: - DONE
+- :o: - in progress
+- :x: - can't solve
 
 ---
 ### 01 - Looping a triangle - :heavy_check_mark:

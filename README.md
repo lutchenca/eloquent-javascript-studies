@@ -4,7 +4,7 @@
 ## Resources
 
 - [Eloquent Javascript Book](https://eloquentjavascript.net/)
-- [ELoquent Javascript Code Sandbox](https://eloquentjavascript.net/code/)
+- [Eloquent Javascript Code Sandbox](https://eloquentjavascript.net/code/)
 
 
 ## Chapters
