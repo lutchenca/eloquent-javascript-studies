@@ -8,4 +8,4 @@
 
 
 ## Chapters
-- [Chapter Two Exercises](chapter-02-exercises/exercises.md)
+- [Chapter Two Exercises](chapters/chapter-two.md)
